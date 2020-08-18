@@ -87,6 +87,4 @@ async def play(ctx, url: str):
     voice.source = discord.PCMVolumeTransformer(voice.source)
     voice.source.volume = 0.07
 
-token = open('token.txt','r').readline()
-
-client.run(token, bot=False)
+client.run('NjA2NDU1MTI4NjA1ODUxNjYx.XzveeQ.8tJefpCnHLeao1ZYVMzqF9Ty-6o', bot=False)
