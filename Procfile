@@ -1,0 +1,1 @@
+wokrer: python3 bot.py
